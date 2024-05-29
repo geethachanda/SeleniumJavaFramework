@@ -1,0 +1,8 @@
+[INFO ] 2024-05-29 17:22:44.528 [main] AccountTest - Welcome to ParaBank login page
+[INFO ] 2024-05-29 17:22:45.285 [main] AccountTest - Navigated to Registration page
+[INFO ] 2024-05-29 17:22:49.974 [main] AccountTest - Registration successful
+[INFO ] 2024-05-29 17:22:53.347 [main] LoginTest - login attempted
+[INFO ] 2024-05-29 17:22:58.005 [main] AccountTest - Welcome to ParaBank login page
+[INFO ] 2024-05-29 17:23:01.862 [main] AccountTest - Navigated to Registration page
+[INFO ] 2024-05-29 17:23:06.733 [main] AccountTest - Registration successful
+[INFO ] 2024-05-29 17:23:11.228 [main] LoginTest - login attempted
