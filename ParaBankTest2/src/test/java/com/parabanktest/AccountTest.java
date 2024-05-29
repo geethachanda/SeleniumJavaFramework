@@ -21,8 +21,9 @@ public class AccountTest extends BaseTest{
 		RegisterObjects reg=new RegisterObjects(driver);
 	
 		try {
-		reg.assertfields();
 		logger.info("Navigated to Registration page");
+		reg.assertfields();
+		
 		}
 		catch(Exception e){
 			System.out.println(e.getMessage());
